@@ -1,1 +1,11 @@
 # kubernetes
+mongodb
+elasticsearch
+prometheus
+grafana
+kibana
+kafka
+zeekeeper
+nifi
+cassandra
+개많아개많아개많아갬낳아개많아개많아 정신정신정신나가가ㅏ가가가가가각가ㅏ가가가가가가각 할게 너ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ무ㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜ많ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
